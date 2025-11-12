@@ -52,14 +52,18 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (6 workflows)
+## 📚 Workflows Summary (10 workflows)
 
 - [.DS_Store](https://github.com/nusquama/n8nworkflows.xyz/blob/main/workflows/.DS_Store)
 - [AI-Powered n8n Release Notes Summary Notifications via Gmail with GPT-5-Mini-10236](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/AI-Powered%20n8n%20Release%20Notes%20Summary%20Notifications%20via%20Gmail%20with%20GPT-5-Mini-10236)
+- [Automated Post-Purchase Product Delivery & Upsell with Jotform,  GDrive, Gemini-9582](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Automated%20Post-Purchase%20Product%20Delivery%20&%20Upsell%20with%20Jotform,%20%20GDrive,%20Gemini-9582)
+- [Create Linear tickets from Notion content-2138](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Linear%20tickets%20from%20Notion%20content-2138)
 - [Extract Information from a Logo Sheet using forms, AI, Google Sheet and Airtable-2650](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Extract%20Information%20from%20a%20Logo%20Sheet%20using%20forms,%20AI,%20Google%20Sheet%20and%20Airtable-2650)
+- [Generate Multi-Platform Social Media Posts with GPT-4.1 and PostPulse-9195](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Multi-Platform%20Social%20Media%20Posts%20with%20GPT-4.1%20and%20PostPulse-9195)
 - [Learn Workflow Logic with Merge, IF & Switch Operations-5996](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Learn%20Workflow%20Logic%20with%20Merge,%20IF%20&%20Switch%20Operations-5996)
 - [readme.md](https://github.com/nusquama/n8nworkflows.xyz/blob/main/workflows/readme.md)
 - [Simple Eval for Legal Benchmarking-4712](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Simple%20Eval%20for%20Legal%20Benchmarking-4712)
+- [Upload Google Drive Files to an InfraNodus Graph-4486](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Upload%20Google%20Drive%20Files%20to%20an%20InfraNodus%20Graph-4486)
 
 ---
 
